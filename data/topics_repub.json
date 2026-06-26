@@ -1,0 +1,1202 @@
+[
+  {
+    "topic": -1,
+    "top_words": [
+      {
+        "word": "ucraina",
+        "weight": 0.017734961061518117
+      },
+      {
+        "word": "russia",
+        "weight": 0.012523056516371799
+      },
+      {
+        "word": "presidente",
+        "weight": 0.01119760559496856
+      },
+      {
+        "word": "zelensky",
+        "weight": 0.010912432696611775
+      },
+      {
+        "word": "kiev",
+        "weight": 0.00990575441210181
+      },
+      {
+        "word": "guerra",
+        "weight": 0.008796599715948867
+      },
+      {
+        "word": "pace",
+        "weight": 0.00875695628406582
+      },
+      {
+        "word": "ucraino",
+        "weight": 0.007976841804142203
+      },
+      {
+        "word": "mosca",
+        "weight": 0.007583962641092462
+      },
+      {
+        "word": "russo",
+        "weight": 0.007549538433385394
+      }
+    ],
+    "representative_docs": [
+      "Media, telefonata Zelensky-leader Ue su piano alternativo. Il presidente ucraino Volodymyr Zelensky ha avuto una conversazione telefonica con il presidente francese Emmanuel Macron, il cancelliere tedesco Friedrich Merz e il primo ministro britannico Keir Starmer. Lo riporta RBC-Ucraina. Secondo una sua fonte, i politici stanno discutendo una bozza di un nuovo piano di pace per porre fine alla guerra in Ucraina. È stato inoltre riferito che i leader europei hanno in programma di tenere una riunione di emergenza domani al vertice del G20 in Sudafrica per discutere il piano di pace degli Stati Uniti.",
+      "Zelensky: “Senza gli Usa la Ue da sola non basta”. Se Donald Trump ritirerà il sostegno degli Stati Uniti all’Ucraina, l’Europa da sola non sarà in grado di colmare il divario. Lo afferma il presidente ucraino,Volodymyr Zelensky, alla vigilia di quello che potrebbe essere il suo viaggio diplomatico più importante dall’invasione su vasta scala della Russia di tre anni fa.\"Ci sono voci che dicono che l’Europa potrebbe offrire garanzie di sicurezza senza gli americani, e io dico sempre di no\", ha detto il presidente ucraino durante un’intervista di un’ora con ilGuardianpresso il palazzo presidenziale a Kiev. \"Le garanzie di sicurezza senza l’America non sono vere garanzie di sicurezza\", ha aggiunto. L’Ucraina ha le più grandi riserve di uranio e titanio in Europa, ha affermato Zelensky, e \"non è nell’interesse degli Stati Uniti\" che queste riserve siano nelle mani della Russia e potenzialmente condivise con la Corea del Nord, la Cina o l’Iran.\"Non stiamo parlando solo di sicurezza, ma anche di denaro - dice il presidente ucraino - risorse naturali preziose con le quali possiamo offrire ai nostri partner possibilità che prima non esistevano. Per noi creerà posti di lavoro, per le aziende americane creerà profitti\".Zelensky ha detto che è fondamentale per la sicurezza dell’Ucraina che il supporto militare degli Stati Uniti continui, citando l’esempio dei sistemi di difesa aerea Patriot di fabbricazione statunitense. \"Solo i Patriot possono difenderci da tutti i tipi di missili, solo i Patriot. Ci sono altri sistemi europei ma non possono fornire una protezione completa. Quindi anche da questo piccolo esempio si può vedere che senza l’America, le garanzie di sicurezza non possono essere complete\", ha detto il presidente ucraino. |",
+      "Incontri Usa-Russia e Usa-Ucraina nel weekend a Miami. Ma non previsti trilaterali. Un incontro tra gli inviati russi e americani sulla guerra in Ucraina si terrà questo fine settimana a Miami, in Florida. Lo ha annunciato un funzionario della Casa Bianca. La presidenza statunitense non ha fornito dettagli sulla composizione delle delegazioni. SecondoPolitico, gli Stati Uniti saranno rappresentati dal loro inviato in Ucraina, Steve Witkoff, e dal genero del presidente Donald Trump, Jared Kushner, mentre la Russia dovrebbe inviare l’inviato economico del Cremlino, Kirill Dmitriev. Questo nuovo round di colloqui arriverà dopo che il presidente ucraino Volodymyr Zelensky ha rilevato \"progressi\" verso un compromesso tra Kiev e Washington sul contenuto di un piano da proporre a Mosca per porre fine ai combattimenti, a seguito degli incontri a Berlino di domenica e lunedì tra funzionari americani, ucraini ed europei. Zelensky, tuttavia, ha avvertito che la Russia si sta preparando, a suo avviso, per un altro \"anno di guerra\" nel 2026. Domani e sabato si terrà anche un nuovo giro di colloqui tra Ucraina e Stati Uniti nell’ambito del negoziato di pace. Lo ha annunciato stamane ai cronisti il presidente ucraino, Volodymyr Zelensky, senza fornire dettagli sulla composizione della delegazione. \"Venerdì e sabato, la nostra squadra sarà negli Stati Uniti; sono già in viaggio e gli americani li aspettano lì. Non so chi altro potrebbe essere presente, forse ci saranno degli europei\", ha affermato Zelensky. Non sono previsti trilaterali Usa-Russia-Ucraina."
+    ]
+  },
+  {
+    "topic": 0,
+    "top_words": [
+      {
+        "word": "ucraina",
+        "weight": 0.026803597809056296
+      },
+      {
+        "word": "pace",
+        "weight": 0.017082234789073555
+      },
+      {
+        "word": "ue",
+        "weight": 0.016669881729141238
+      },
+      {
+        "word": "europa",
+        "weight": 0.014620535933116283
+      },
+      {
+        "word": "nato",
+        "weight": 0.014450776706789913
+      },
+      {
+        "word": "orban",
+        "weight": 0.01249686026533957
+      },
+      {
+        "word": "sicurezza",
+        "weight": 0.01191330329741469
+      },
+      {
+        "word": "kiev",
+        "weight": 0.011504965555277386
+      },
+      {
+        "word": "tajani",
+        "weight": 0.011322323519937396
+      },
+      {
+        "word": "ministro",
+        "weight": 0.011265049250908508
+      }
+    ],
+    "representative_docs": [
+      "Von der Leyen: “Avanti per una pace giusta e per l’adesione dell’Ucraina alla Ue”. \"La sicurezza dell’Ucraina è la sicurezza dell’Europa. Insieme, lavoreremo per raggiungere una pace giusta e duratura. L’incontro di ieri a Parigi ha rappresentato un passo molto significativo in questa direzione. Continueremo a far progredire il cammino dell’Ucraina e della Moldova verso l’Unione europea, perché un’Ucraina libera e prospera e una Moldova unita e prospera appartengono all’Ue\". Lo afferma la presidente della Commissione europea, Ursula von der Leyen, rivolgendosi al presidente cipriota Nikos Christodoulides, nella cerimonia di apertura della presidenza cipriota del Consiglio Ue a Nicosia. |",
+      "Costa: “Non ci potrà essere una pace senza Ucraina e senza Ue”. \"La pace in Ucraina e la sicurezza dell’Europa sono inscindibili. La pace non può essere un semplice cessate il fuoco. La Russia non deve più essere una minaccia per l’Ucraina, per l’Europa, per la sicurezza internazionale. Non ci saranno negoziati credibili e di successo, nè una pace duratura, senza l’Ucraina e senza l’Ue\". Lo scrive su X il presidente del Consiglio europeo, Antonio Costa",
+      "Leader europei: “Nessuna pace senza l'Ucraina”. \"L’Ucraina ha la libertà di decidere sul proprio destino. Negoziati significativi possono aver luogo solo nel contesto di un cessate il fuoco o di una riduzione delle ostilità. Il percorso verso la pace non può essere deciso senza l’Ucraina\". Lo scrivono il presidente francese Emmanuel Macron, la premier Giorgia Meloni, il cancelliere tedesco Friedrich Merz, il premier polacco Donald Tusk, la presidente della Commissione Ue Ursula von der Leyen e il presidente finlandese Alexander Stubb in una dichiarazione congiunta in vista dell’incontro tra Trump e Putin. \"Sottolineiamo il nostro incrollabile impegno a favore della sovranità, dell’indipendenza e dell’integrità territoriale dell’Ucraina\". | \"Continuiamo a sostenere fermamente l’Ucraina. Siamo uniti come europei e determinati a promuovere congiuntamente i nostri interessi. Continueremo a collaborare strettamente con il presidente Trump e con gli Stati Uniti, con il presidente Zelensky e con il popolo ucraino, per una pace in Ucraina che protegga i nostri vitali interessi di sicurezza\", scrivono ancora i leader europei, che aggiungono: “Gli interessi vitali dell’Ucraina e dell’Europa includono la necessità di garanzie di sicurezza solide e credibili che consentano all’Ucraina di difendere efficacemente la propria sovranità e integrità territoriale\"."
+    ]
+  },
+  {
+    "topic": 1,
+    "top_words": [
+      {
+        "word": "droni",
+        "weight": 0.06481642483483496
+      },
+      {
+        "word": "notte",
+        "weight": 0.03220910959333405
+      },
+      {
+        "word": "regione",
+        "weight": 0.030138429659551064
+      },
+      {
+        "word": "droni ucraini",
+        "weight": 0.028974618278218928
+      },
+      {
+        "word": "abbattuti",
+        "weight": 0.025409484699495482
+      },
+      {
+        "word": "ucraini",
+        "weight": 0.02473552439638583
+      },
+      {
+        "word": "attacco",
+        "weight": 0.023314013838889723
+      },
+      {
+        "word": "difesa",
+        "weight": 0.022697130051862528
+      },
+      {
+        "word": "kiev",
+        "weight": 0.022358340605697354
+      },
+      {
+        "word": "regioni",
+        "weight": 0.02106434872849603
+      }
+    ],
+    "representative_docs": [
+      "Droni sulla Russia, in fiamme deposito di petrolio. Lo schianto di un drone ucraino ha causato un incendio in un deposito di petrolio nella regione di Tambov. Le forze di difesa aerea hanno abbattuto 102 droni ucraini nelle regioni russe durante la notte. Lo ha riferito il Ministero della Difesa di Mosca. \"Nel corso della scorsa notte i sistemi di allerta della difesa aerea hanno intercettato e distrutto 102 droni ucraini ad ala fissa: 26 droni nella regione di Belgorod, 22 droni nella regione di Bryansk, 21 droni nella regione di Kursk, 16 droni nella regione di Rostov, 7 droni nella regione di Astrakhan, 6 droni nella regione di Saratov e 4 droni nella regione di Voronezh\", ha riferito il dipartimento militare, come riporta l’agenzia Tass.",
+      "Mosca:”Abbattuti sei droni Kiev su regioni russe”. I sistemi di difesa aerea russi hanno distrutto sei droni ucraini che sorvolavano le regioni russe. Lo ha riferito il Ministero della Difesa di Mosca.\"I sistemi di difesa aerea in servizio hanno distrutto e intercettato sei droni ucraini\", tre nella regione di Belgorod, due nella regione di Bryansk e un altro nella regione di Saratov.",
+      "Ministero Difesa russo: “Abbattuti 7 droni ucraini nella notte”. Le difese aeree russe hanno abbattuto la notte scorsa sette droni ucraini su tre regioni del Paese: lo ha reso noto su Telegram il ministero della Difesa russo. Cinque droni sono stati distrutti sul territorio della regione di Voronezh e uno ciascuno sui territori delle regioni di Belgorod e Bryansk."
+    ]
+  },
+  {
+    "topic": 2,
+    "top_words": [
+      {
+        "word": "feriti",
+        "weight": 0.03627897790167277
+      },
+      {
+        "word": "attacco",
+        "weight": 0.03051836939483657
+      },
+      {
+        "word": "morti",
+        "weight": 0.0262382550023416
+      },
+      {
+        "word": "ferite",
+        "weight": 0.02221020634560251
+      },
+      {
+        "word": "regione",
+        "weight": 0.022040977848184633
+      },
+      {
+        "word": "raid",
+        "weight": 0.020709637502507306
+      },
+      {
+        "word": "russo",
+        "weight": 0.020406952394369342
+      },
+      {
+        "word": "kharkiv",
+        "weight": 0.018086427203780085
+      },
+      {
+        "word": "almeno",
+        "weight": 0.01805498782986203
+      },
+      {
+        "word": "kiev",
+        "weight": 0.017756929899019325
+      }
+    ],
+    "representative_docs": [
+      "Attacchi russi in Ucraina uccidono tre persone e ne feriscono 19. Gli attacchi russi in Ucraina hanno causato la morte di almeno tre civili e ne hanno feriti almeno 19 nell’ultimo giorno. Lo hanno riferito le autorità regionali. Nella regione di Donetsk , due persone sono state uccise e quattro ferite nel corso della giornata, ha riferito il governatore Vadym Filashkin. Un attacco russo contro la città di Toretsk ha ucciso un residente e ne ha ferito un altro. Un’altra persona è stata uccisa a Illinivka, mentre due sono rimaste ferite a Kostiantynivka e una a Berestok, ha aggiunto Filashkin. Secondo il governatore Oleh Syniehubov, otto civili sono rimasti feriti durante gli attacchi russi contro l’oblast’ di Kharkiv. Gli attacchi russi contro l’oblast di Kherson hanno causato la morte di una persona e ne hanno ferite sette, ha riferito il governatore Oleksandr Prokudin. Sono stati segnalati danni a una struttura medica, a un edificio amministrativo, a otto grattacieli, a 24 case e a diverse auto",
+      "Kiev, almeno 8 vittime dopo i raid russi delle ultime 24 ore. Gli attacchi russi hanno ucciso almeno otto persone e ne hanno ferite almeno 18, tra cui dei bambini, in diverse regioni dell’Ucraina nelle ultime 24 ore. Lo hanno riferito le autorità locali. Lo riporta il Kiev Independent. Nella provincia di Kherson quattro persone sono state uccise e sei ferite in attacchi con droni e artiglieria contro aree residenziali e infrastrutture, ha dichiarato il governatore Oleksandr Prokudin. Fra i feriti c’è anche un sedicenne. Nella regione di Donetsk, tre civili sono stati uccisi e tre feriti negli attacchi su Kostiantynivka, Pokrovsk e Rodynske, ha affermato il governatore Vadym Filashkin. Nella regione di Kharkiv , una persona è stata uccisa e un’altra è rimasta ferita in bombardamenti e attacchi con droni contro sei insediamenti, ha dichiarato il governatore Oleh Syniehubov. Nella regione di Sumyinfine diverse comunità sono state sottoposte a pesanti bombardamenti e attacchi con droni. I feriti sono almeno sette fra cui un bambino di sette anni",
+      "Ucraina: sale a 13 morti e 46 feriti il bilancio del raid russo di questa notte. È di almeno 13 civili uccisi e 46 feriti il bilancio delle vittime dell’ultimo massiccio raid russo sull’Ucraina, contro la quale sono stati lanciati 26 missili balistici da crociera e 339 droni di fabbricazione iraniana. Lo ha reso noto l’Aeronautica militare ucraina. Il governatore di CernovcyRuslan Zaparanyukha dichiarato che due persone sono state uccise in città e altre quattro sono rimaste gravemente ferite, una delle quali in condizioni critiche. Altre dieci hanno riportato ferite lievi. Nella provincia di Kharkiv quattro persone sono rimaste ferite in attacchi nella città di Kharkiv e nelle località vicine, ha affermato il governatoreOleh Syniehubov. Nell’oblast di Sumy quattro civili sono rimasti feriti in attacchi con droni e artiglieria contro diverse comunità, secondo le autorità regionali. Nell’oblast di Dnipropetrovsk, il governatoreSerhii Lysakha segnalato tre morti, due persone nel distretto di Synelnykove, e un terzo uomo a Nikopol. Nell’oblast di Kherson le forze russe hanno colpito con droni contro oltre 30 città e villaggi, ha dichiarato il governatore Oleksandr Prokudin . Due civili sono rimasti uccisi e otto sono rimasti feriti. I danni hanno interessato condomini, case, un’azienda agricola, magazzini, veicoli e macchinari agricoli. Nella provincia di Zaporizhzhia due civili sono stati uccisi in attacchi russi, ha dichiarato il governatore Ivan Fedorov, affermando che le forze russe hanno lanciato 566 attacchi contro 16 insediamenti. Secondo il governatore Vadym Filashkin, nella provincia di Donetsk quattro persone sono state uccise e dieci ferite in attacchi russi."
+    ]
+  },
+  {
+    "topic": 3,
+    "top_words": [
+      {
+        "word": "trump",
+        "weight": 0.07271616904955053
+      },
+      {
+        "word": "putin",
+        "weight": 0.04208282616524048
+      },
+      {
+        "word": "donald",
+        "weight": 0.03179932028850042
+      },
+      {
+        "word": "donald trump",
+        "weight": 0.03108231504479383
+      },
+      {
+        "word": "presidente",
+        "weight": 0.030431209732371744
+      },
+      {
+        "word": "vladimir",
+        "weight": 0.01892682784170353
+      },
+      {
+        "word": "vladimir putin",
+        "weight": 0.018493145264674053
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.01763773756794665
+      },
+      {
+        "word": "guerra",
+        "weight": 0.01596082715866813
+      },
+      {
+        "word": "cremlino",
+        "weight": 0.014780104109648548
+      }
+    ],
+    "representative_docs": [
+      "Trump, Ucraina o Russia? Non sto dalla parte di nessuno. \"Non sto dalla parte di nessuno\". Lo ha detto Donald Trump rispondendo a una domanda sulla guerra della Russia in Ucraina, secondo quanto riporta l’agenzia Bloomberg.",
+      "Cremlino, possibile oggi telefonata Putin-Trump. Il presidente russo Vladimir Putin potrebbe avere oggi una conversazione telefonica con il presidente Usa Donald Trump. Lo ha riferito il portavoce del Cremlino Dmitry Peskov. \"Ci aspettiamo che un’altra conversazione telefonica internazionale avrà luogo oggi\", ha detto Peskov ai giornalisti, citato dalle agenzie russe, aggiungendo che la tempistica del colloquio sarà decisa dopo che l’inviato speciale del presidente Usa Steve Witkoff avrà informato Trump dei colloqui con il leader russo. \"Non è ancora stato concordato l’orario esatto della conversazione tra i due presidenti\", ha dichiarato Peskov.",
+      "Casa Bianca conferma vertice Trump-Putin ad Anchorage. La Casa Bianca ha confermato che il vertice tra il presidente americano, Donald Trump, e l’omologo russo, Vladimir Putin, sarà ad Anchorage."
+    ]
+  },
+  {
+    "topic": 4,
+    "top_words": [
+      {
+        "word": "russia",
+        "weight": 0.016562103464133424
+      },
+      {
+        "word": "prigionieri",
+        "weight": 0.016068395690184253
+      },
+      {
+        "word": "mosca",
+        "weight": 0.012789445513496298
+      },
+      {
+        "word": "russo",
+        "weight": 0.01245930117427179
+      },
+      {
+        "word": "russa",
+        "weight": 0.012278949488998825
+      },
+      {
+        "word": "scambio",
+        "weight": 0.010327309867706025
+      },
+      {
+        "word": "tribunale",
+        "weight": 0.010058453087996355
+      },
+      {
+        "word": "arrestato",
+        "weight": 0.009860209499435169
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.009850436659709524
+      },
+      {
+        "word": "condannato",
+        "weight": 0.009361760880856967
+      }
+    ],
+    "representative_docs": [
+      "Mosca: nuovo scambio di 205 prigionieri tra Russia e Ucraina. La Russia e l’Ucraina hanno effettuato oggi un nuovo scambio di prigionieri, con la liberazione di 205 militari per parte. Lo rende noto il ministero della Difesa di Mosca. Lo scambio, sottolinea il ministero russo sul suo canale Telegram, è stato reso possibile dalla mediazione degli Emirati arabi uniti. I militari russi liberati da Kiev sono stati consegnati alla Bielorussia, da dove faranno ritorno in patria. | |",
+      "Il dissidente liberato Orlov: “Continuerò la lotta per i diritti umani”. Il dissidente russo Oleg Orlov, rilasciato nell’ambito di uno scambio di prigionieri tra Mosca e l’Occidente, ha promesso di continuare il suo lavoro in difesa dei diritti umani e di condurre una campagna per il rilascio di altri prigionieri politici. Figura chiave della Ong Memorial, co-vincitore del Premio Nobel per la pace nel 2022 e veterano del movimento civico russo, Oleg Orlov si è rivolto ai suoi sostenitori in un video pubblicato da Memorial, meno di una settimana dopo il suo rilascio. \"Per me la libertà sarà soprattutto il lavoro con Memorial\", ha detto l’attivista, spiegando che \"gran parte\" di questo lavoro sarà dedicato a ottenere il rilascio di altri prigionieri politici ancora nelle carceri russe. Oleg Orlov, 71 anni, è stato condannato nel febbraio 2024 a due anni e mezzo di prigione per le sue ripetute denunce dell’invasione russa dell’Ucraina. A differenza di altri oppositori, ha scelto di restare in patria, nonostante il rischio di essere arrestato. La principale organizzazione per i diritti umani in Russia, Memorial, indaga sulle violazioni, fornisce assistenza ai \"prigionieri di coscienza\" e lavora per preservare la memoria delle repressioni sovietiche. L’Ong è stata sciolta dalla giustizia russa alla fine del 2021. Come altri prigionieri politici russi rilasciati la settimana scorsa nell’ambito di un vasto scambio con l’Occidente, Orlov ha spiegato di essere diviso tra la gioia di essere libero e l’amarezza di non più essere in Russia per continuare la lotta, in un’intervista con i media Meduza sabato. Secondo il conteggio di Memorial, la Russia ha attualmente 765 prigionieri politici. Migliaia di altre persone sono state minacciate o punite per la loro opposizione all’offensiva in Ucraina o al potere russo.",
+      "Prigionieri politici russi: “Mosca scarceri noi e civili ucraini”. Undici prigionieri politici russi hanno scritto una lettera aperta indirizzata ai leader mondiali chiedendo, nell’ambito dei negoziati tra Mosca e Kiev, la scarcerazione di tutti i dissidenti dietro le sbarre in Russia per motivi politici ma anche di tutti i civili ucraini detenuti da Mosca durante l’invasione dell’Ucraina da parte delle truppe del Cremlino. La lettera è stata pubblicata dall’agenziaReuterssul suo sito web. \"Invitiamo entrambe le parti dei negoziati tra Russia e Ucraina a procedere immediatamente a uno scambio di prigionieri di guerra e civili secondo la formula ’tutti per tutti’, compresi gli ostaggi civili ucraini\", si legge nella lettera, secondo la quale i prigionieri politici e i civili ucraini detenuti dal governo russo sarebbero \"almeno 10.000\". \"Siamo almeno 10mila, prigionieri politici russi e ostaggi civili ucraini. Siamo tutti puniti per una cosa: per aver preso una posizione civica\", hanno scritto gli undici prigionieri politici che hanno firmato la lettera. Tra loro c’èAlexey Gorinov, 63 anni, il primo oppositore russo condannato a una pena detentiva in base alla legge bavaglio che prevede fino a 15 anni di reclusione per chi critica l’aggressione militare ordinata daPutin. \"Le istituzioni per i diritti umani nella Russia moderna sono state completamente sostituite da organismi che si limitano a imitare le attività a tutela dei diritti umani. Di conseguenza, la salute e la vita dei prigionieri sono a rischio, e la tortura e le pressioni esercitate contro di loro spesso non vengono indagate o punite\", si legge nella lettera pubblicata sul sito web dell’agenziaReuters. Il documento afferma inoltre che \"i prigionieri politici sono, più spesso di altri, detenuti in condizioni più dure e privati ;;della possibilità della libertà condizionata e di un allentamento legale del regime detentivo\" e che \"la pratica di avviare ulteriori procedimenti penali sulla base di denunce di altri detenuti è diventata comune\". Gli 11 prigionieri politici russi che hanno firmato la lettera affermano inoltre di non aver perso la propria \"voce\" e di aver \"mantenuto\" la propria \"posizione civica\" nonostante questo contesto."
+    ]
+  },
+  {
+    "topic": 5,
+    "top_words": [
+      {
+        "word": "sanzioni",
+        "weight": 0.055531505379319675
+      },
+      {
+        "word": "gas",
+        "weight": 0.026183176561888448
+      },
+      {
+        "word": "russia",
+        "weight": 0.02411813642197854
+      },
+      {
+        "word": "ue",
+        "weight": 0.02126711193733223
+      },
+      {
+        "word": "petrolio",
+        "weight": 0.01879800506055437
+      },
+      {
+        "word": "pacchetto",
+        "weight": 0.017325107529196276
+      },
+      {
+        "word": "sanzioni russia",
+        "weight": 0.016427783880000067
+      },
+      {
+        "word": "pacchetto sanzioni",
+        "weight": 0.01545985733861507
+      },
+      {
+        "word": "russo",
+        "weight": 0.013064756928899114
+      },
+      {
+        "word": "nuove",
+        "weight": 0.012552959444109326
+      }
+    ],
+    "representative_docs": [
+      "Politico: “La Ue con gli Usa per dazi al 500% a chi compra petrolio russo”. L’Ue è pronta a allinearsi agli Stati Uniti nel caso Washington decida di imporre, come nuove misure contro la Russia, dazi al 500% ai Paesi che acquistano petrolio e gas russo e altri prodotti. E’ quanto scrive Politico.eu rimandando alle parole della presidente Ursula von der Leyen, lunedì a Berlino. \"Se gli americani decidono di imporre sanzioni, il 500% sarà incluso nel 18° ciclo di sanzioni dell’Ue\", aveva spiegato la numero dell’esecutivo europeo al podcast dell’edizione tedesca di Politico. Il pacchetto di sanzioni Ue-Usa potrebbe subire un’accelerazione al G7. Parallelamente la Commissione sta delineando il 18/o pacchetto di misure europee contro il Cremlino che, tra l’altro, dovrebbero includere anche sanzioni contro le banche russe",
+      "Il Giappone pronto ad adottare un nuovo pacchetto di sanzioni contro la Russia. Il Giappone sta valutando la possibilità di approvare una nuova tornata di sanzioni contro la Russia a seguito dell’invasione dell’Ucraina, seguendo così le misure approvate nei giorni scorsi dagli Stati Uniti e da altri Paesi del G7. \"Vogliamo adottare misure severe affinche’ la Russia non possa evitare le sanzioni da parte di Paesi terzi, motivo per cui stiamo studiando il pacchetto di sanzioni annunciato durante il vertice del G7\", ha detto il portavoce del governo giapponeseYoshimasa Hayashiin una conferenza stampa. Hayashi ha sottolineato che le nuove sanzioni colpirebbero entità e individui in Paesi come Cina, India, Emirati Arabi Uniti, Uzbekistan e Kazakistan. \"Stiamo finalizzando i dettagli e faremo presto l’annuncio\", ha aggiunto. Alla fine di maggio, il governo giapponese ha approvato un’altra serie di sanzioni contro alti funzionari politici e militari russi, in segno di protesta contro l’invio di armi alla Russia da parte della Corea del Nord e lo scorso marzo ha deciso di negare alla Russia per il secondo anno consecutivo lo status commerciale di \"Nazione favorita\". All’inizio di marzo, le autorità giapponesi hanno inoltre imposto un nuovo pacchetto di sanzioni contro dodici persone e 36 entità legate alla Russia nel corso dell’invasione dell’Ucraina.",
+      "Zelensky: “Firmate nuove sanzioni contro la Russia”. \"Ho firmato diverse nuove decisioni relative alle sanzioni\" contro la Russia. Lo ha affermato il presidente ucraino Volodymyr Zelensky sul suo canale Telegram. Zelensky ha aggiunto che Kiev continua \"a sincronizzare le sanzioni\" ucraine e \"il 19° pacchetto di sanzioni dell’Unione europea\" contro Mosca. \"Stiamo inoltre lavorando per estendere le sanzioni dell’Unione europea alle giurisdizioni di altri Paesi europei al di fuori dell’Unione europea\", ha continuato il presidente ucraino sottolineando che \"si tratta di un pacchetto forte, che mira in particolare alle esportazioni di risorse russe e ai programmi di fornitura di componenti elettronici alla Russia\"."
+    ]
+  },
+  {
+    "topic": 6,
+    "top_words": [
+      {
+        "word": "euro",
+        "weight": 0.024794323916273595
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.02271337278508172
+      },
+      {
+        "word": "asset",
+        "weight": 0.02140546910249795
+      },
+      {
+        "word": "prestito",
+        "weight": 0.01993112704481823
+      },
+      {
+        "word": "ue",
+        "weight": 0.019135992600292535
+      },
+      {
+        "word": "asset russi",
+        "weight": 0.01715864954974995
+      },
+      {
+        "word": "dollari",
+        "weight": 0.0159035931665163
+      },
+      {
+        "word": "congelati",
+        "weight": 0.01567167525779308
+      },
+      {
+        "word": "beni",
+        "weight": 0.015350476070021586
+      },
+      {
+        "word": "aiuti",
+        "weight": 0.015329372533837303
+      }
+    ],
+    "representative_docs": [
+      "Financial Times: “La Ue propone di usare denaro dei beni russi congelati per acquisto di armi Usa per Kiev”. | L’Unione europea ha proposto di utilizzare parte di un prestito da 140 miliardi di euro, garantito dai beni russi congelati, per acquistare armi statunitensi per l’Ucraina, a condizione che Washington continui a sostenere Kiev nella difesa contro la Russia. Lo afferma il Financial Times, che cita un documento della Commissione e alcuni diplomatici e funzionari dell’Ue. La proposta, presentata oggi agli ambasciatori dell’Ue, arriva dopo che gli alleati europei sono rimasti sorpresi dall’accordo del presidente statunitense Donald Trump di incontrare il suo omologo russo in Ungheria. La parte principale del prestito garantito dagli asset russi sarebbe utilizzata per acquistare armamenti, secondo un documento della Commissione che illustra la struttura del prestito. La Commissione aggiunge nel documento che \"potrebbe essere prevista una cooperazione con partner internazionali che si impegnino a fornire un sostegno aggiuntivo sostanziale\" all’Ucraina. La proposta mira a sfruttare importanti contratti di approvvigionamento di armi per mantenere gli Stati Uniti allineati, hanno dichiarato diplomatici e funzionari dell’Ue. La Commissione ha inoltre invitato i paesi del G7 e altri Stati a \"rafforzare il loro sostegno all’Ucraina insieme all’Ue\", secondo quanto riportato nel documento. Ciò potrebbe comportare la replicazione del \"prestito di riparazione\" dell’Ue, mobilitando i beni congelati nelle rispettive giurisdizioni - qualcosa che Regno Unito e Canada hanno già indicato di essere disposti a fare - oltre a fornire ulteriore supporto",
+      "Sette leader Ue: urgente prestito sugli asset russi. Sette leader Ue hanno scritto una lettera per dichiarare che “un prestito sugli asset russi è urgente”. I leader di Estonia, Finlandia, Irlanda, Lettonia, Lituania, Polonia e Svezia hanno scritto la lettera alla presidente della Commissione europea Ursula von der Leyen e al presidente del Consiglio europeo Antonio Costa per sostenere la proposta di un prestito di riparazione per l’Ucraina sugli asset russi immobilizzati. \"Fin dall’inizio dell’invasione russa su vasta scala nel 2022, l’Europa è stata ferma nel suo sostegno all’Ucraina. Lo facciamo perché è la cosa moralmente corretta da fare, ma anche perché le ambizioni imperialistiche della Russia minacciano la sicurezza europea al di là dell’Ucraina. Pertanto, l’Ucraina sta lottando anche per la nostra libertà e per i nostri valori. Ci impegniamo a trovare un sostegno solido a lungo termine che rafforzi l’Ucraina\", si legge nella missiva. \"Considerando l’attuale portata e l’urgenza delle esigenze di bilancio e militari dell’Ucraina, sosteniamo fermamente la proposta della Commissione di un prestito di riparazione finanziato dai saldi di cassa dei beni russi immobilizzati nell’UE. Oltre a essere la soluzione finanziariamente più fattibile e politicamente realistica, affronta il principio fondamentale del diritto dell’Ucraina al risarcimento dei danni causati dall’aggressione\", sottolineano. \"Il tempo è essenziale. Raggiungendo una decisione sul prestito di riparazione al Consiglio europeo di dicembre, abbiamo l’opportunità di mettere l’Ucraina in una posizione più forte per difendersi e in una posizione migliore per negoziare una pace giusta e duratura. Siamo pronti a lavorare in modo costruttivo insieme a voi a tal fine\", concludono i leader.",
+      "Von der Leyen: il prestito Ue da 35 miliardi garantito grazie a extraprofitti dagli asset russi congelati. La Commissione Europea \"ha adottato una proposta volta a prestare all’Ucraina 35 mld di euro\" nell’ambito dei prestiti concordati dai leader del G7. \"E’ un passo avanti enorme. Sono fiduciosa che potremo erogare il prestito all’Ucraina molto velocemente\", un prestito che sarà \"garantito dagli extraprofitti derivanti dagli asset russi congelati\". Lo dice la presidente della Commissione Europea Ursula von der Leyen, in conferenza stampa a Kiev insieme al presidente ucraino Volodymyr Zelensky."
+    ]
+  },
+  {
+    "topic": 7,
+    "top_words": [
+      {
+        "word": "putin",
+        "weight": 0.03405116535562082
+      },
+      {
+        "word": "lavrov",
+        "weight": 0.02449696460509968
+      },
+      {
+        "word": "russia",
+        "weight": 0.02030507287250794
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.01969231471772068
+      },
+      {
+        "word": "pace",
+        "weight": 0.019532895857677368
+      },
+      {
+        "word": "cremlino",
+        "weight": 0.016630045656903934
+      },
+      {
+        "word": "negoziati",
+        "weight": 0.014904659466978179
+      },
+      {
+        "word": "kiev",
+        "weight": 0.01368586703835447
+      },
+      {
+        "word": "russo",
+        "weight": 0.013445755381717127
+      },
+      {
+        "word": "presidente",
+        "weight": 0.01282775012383358
+      }
+    ],
+    "representative_docs": [
+      "Wadephul: “Kiev ha fatto la sua parte, tocca a Putin sedersi al tavolo”. | Il ministro degli Esteri tedesco Johann Wadephul ha esortato il presidente russo Vladimir Putin a prendere parte ai negoziati di pace previsti per porre fine al conflitto in Ucraina. \"L’Ucraina ha dimostrato tutta la sua disponibilità a condurre trattative per un cessate il fuoco e per la pace senza precondizioni - ha dichiarato Wadephul intervenendo al Bundestag - Ora ci aspettiamo che il signor Putin si presenti al tavolo delle trattative. Chiunque voglia la pace in Europa deve negoziare adesso. La palla è nel campo di Putin\". Nel frattempo, il presidente ucraino Volodymyr Zelensky si recherà domani a Istanbul, dopo che Putin ha avanzato l’ipotesi di tenere lì un colloquio diretto con la parte ucraina. Il Cremlino non ha però ancora chiarito chi rappresenterà ufficialmente Mosca durante l’incontro previsto in Turchia.",
+      "Il Cremlino sull’incontro Putin-Witkoff: “Vogliamo sicurezza per le generazioni future”. La Russia vuole raggiungere una pace in Ucraina che risolva \"i problemi di sicurezza\" di Mosca per \"molte generazioni future\". Lo ha detto il portavoce del Cremlino,Dmitry Peskov,mentre si attende a Mosca l’avvio dei colloqui tra il presidente Vladimir Putin e l’inviato americanoSteve Witkoff.\"Apprezziamo molto gli sforzi di pace del presidente Trump e della sua amministrazione e vogliamo risolvere i nostri problemi di sicurezza per molte generazioni a venire\", ha dichiarato Peskov, citato dall’agenzia Ria Novosti, incontrando i media indiani mentre mancano due giorni all’inizio di una visita di Putin a New Delhi.\"La Russia - ha aggiunto Peskov, citato dalla Tass -rimane aperta ai negoziati di pace. Ma attraverso negoziati di pace, con l’aiuto di negoziati di pace, dobbiamo raggiungere i nostri obiettivi. Dobbiamo raggiungere i nostri obiettivi e dobbiamo eliminare le cause iniziali dell’operazione militare che abbiamo iniziato\".",
+      "Lavrov: “Aperti ai negoziati per la fine del conflitto”. Il ministro degli Esteri russo Sergei Lavrov ha dichiarato che la Russia rimane disponibile a negoziare per porre fine al conflitto in Ucraina. \"Come il presidente Vladimir Putin ha ribadito più volte, la Russia è stata e rimane aperta ai negoziati per eliminare le cause profonde del conflitto\", ha affermato Lavrov nel discorso all’Assemblea Generale delle Nazioni Unite. | Il capo della diplomazia russa ha precisato che la sicurezza della Russia e i suoi interessi vitali devono essere concordati in modo affidabile e che \"i diritti dei russi e dei russofoni nei territori ancora sotto il controllo del regime di Kiev devono essere pienamente ripristinati\". Su questa base, ha aggiunto, Mosca è pronta a discutere le garanzie di sicurezza per l’Ucraina"
+    ]
+  },
+  {
+    "topic": 8,
+    "top_words": [
+      {
+        "word": "corea",
+        "weight": 0.03990395198742952
+      },
+      {
+        "word": "corea nord",
+        "weight": 0.030409832019836044
+      },
+      {
+        "word": "nord",
+        "weight": 0.02950250395164381
+      },
+      {
+        "word": "putin",
+        "weight": 0.02806763022937477
+      },
+      {
+        "word": "pyongyang",
+        "weight": 0.022324695344256375
+      },
+      {
+        "word": "kim",
+        "weight": 0.02110261615413631
+      },
+      {
+        "word": "nordcoreani",
+        "weight": 0.019631060617686012
+      },
+      {
+        "word": "russia",
+        "weight": 0.01860618871740189
+      },
+      {
+        "word": "presidente",
+        "weight": 0.017802684878542484
+      },
+      {
+        "word": "soldati",
+        "weight": 0.016564756678913647
+      }
+    ],
+    "representative_docs": [
+      "Putin a Kim: “Russia e Corea Nord contro moderno nazismo”. La Russia e la Corea del Nord \"lottano insieme contro il nazismo moderno\", ha detto il presidente russo Vladimir Putin nel bilaterale di Pechino con il leader Kim Jong-un, ringraziandolo per le armi inviate da Pyongyang a sostegno della guerra di Mosca all’Ucraina.",
+      "Kim a Putin: “Da Pyongyang pieno sostegno alla Russia”. Il leader nordcoreano Kim Jong-un ha espresso il suo \"pieno sostegno\" alla Russia nei colloqui telefonici avuti martedì con Vladimir Putin, in vista dell’imminente vertice in Alaska tra il presidente americano Donald Trump e il capo del Cremlino. Lo riporta l’agenzia ufficiale Kcna, segnando la prima volta in cui il Nord dà conto della conversazione telefonica di Kim con un leader straniero. Il rispettato maresciallo \"ha espresso la ferma convinzione che la Corea del Nord rimarrà sempre fedele allo spirito del trattato Pyongyang-Mosca e sosterrà pienamente tutte le misure che saranno adottate dalla leadership russa in futuro\", in merito al trattato di mutua difesa firmato a Pyongynag dalle due nazioni nel giugno del 2024 e che prevede la fornitura di assistenza militare \"senza indugio\" qualora una delle due parti subisca un attacco. Sul dispiegamento di truppe nordcoreane per la guerra russa contro l’Ucraina, Putin ha molto apprezzato \"il coraggio, l’eroismo e lo spirito di sacrificio dimostrati dal personale dell’Esercito popolare di Corea nella liberazione del Kursk, parte del territorio russo\", ha aggiunto la Kcna. L’agenzia di stampa russa Tass aveva in precedenza riferito che Putin aveva informato Kim del suo summit imminente con Trump durante i colloqui telefonici, vicende non riferite dalla Kcna. Tuttavia, l’agenzia statale del Nord ha precisato che Putin si è congratulato con la Corea del Nord per l’imminente anniversario degli \"80 anni della Liberazione\", il 15 agosto, che ricorda la fine del dominio coloniale giapponese del 1910-1945. Kim e Putin, sempre nella lettura nordcoreana, hanno ribadito la loro volontà di rafforzare la cooperazione e hanno concordato di \"stabilire contatti più stretti in futuro\". La Corea del Nord ha inviato truppe e armi in Russia per sostenere gli sforzi bellici di Mosca. I media russi hanno inoltre riferito che il Nord invierà 5.000 operai edili militari e 1.000 genieri a Kursk per sostenere gli sforzi di ricostruzione",
+      "Russia: Corea del Nord, sostegno incondizionato contro Ucraina. Il leader nordcoreanoKim Jong Unha assicurato al Ministro degli Esteri russoSergei Lavrovil suo sostegno \"incondizionato\" nella guerra contro l’Ucraina, considerando la vittoria di Mosca \"certa\". Lo hanno riferito i media ufficiali di Pyongyang. Secondo l’agenzia di stampa statale KCNA, Kim ha ricevuto Lavrov \"in un’atmosfera di fiducia e caloroso cameratismo\", mentre Corea del Nord e Russia rafforzano i loro legami diplomatici e militari. Il Ministero degli Esteri russo ha pubblicato un video su Telegram in cui i due uomini si stringono la mano e si abbracciano. Mosca e Pyongyang hanno firmato un patto di mutua difesa lo scorso anno e la Corea del Nord ha inviato migliaia di soldati per contribuire alla riconquista della regione di Kursk, conquistata dall’esercito ucraino nell’estate del 2024. La Corea del Nord fornisce inoltre alla Russia proiettili e missili. Kim Jong Un ha detto al suo ospite che la Corea del Nord era \"pronta a sostenere e incoraggiare incondizionatamente tutte le misure adottate dalla leadership russa per eliminare la causa principale della crisi ucraina\". Il leader nordcoreano ha anche espresso la sua \"ferma convinzione che l’esercito e il popolo russo otterranno una vittoria certa perseguendo la sacra causa di difendere la dignità e gli interessi fondamentali del Paese\". I due hanno anche discusso \"questioni importanti per la fedele attuazione degli accordi raggiunti\" durante il loro vertice del 2024, quando il patto di difesa è stato siglato durante una rara visita in Corea del Nord del presidente russo Vladimir Putin."
+    ]
+  },
+  {
+    "topic": 9,
+    "top_words": [
+      {
+        "word": "trump",
+        "weight": 0.0726622602885895
+      },
+      {
+        "word": "zelensky",
+        "weight": 0.06014436210696723
+      },
+      {
+        "word": "presidente",
+        "weight": 0.04017803844855718
+      },
+      {
+        "word": "donald",
+        "weight": 0.02912858126667105
+      },
+      {
+        "word": "donald trump",
+        "weight": 0.028183850434242354
+      },
+      {
+        "word": "volodymyr",
+        "weight": 0.02348445395157478
+      },
+      {
+        "word": "volodymyr zelensky",
+        "weight": 0.022988137247698045
+      },
+      {
+        "word": "incontro",
+        "weight": 0.022799429160466296
+      },
+      {
+        "word": "bianca",
+        "weight": 0.020410099239049864
+      },
+      {
+        "word": "casa bianca",
+        "weight": 0.02030441025626183
+      }
+    ],
+    "representative_docs": [
+      "Trump: “Un incontro a tre con Zelensky e Putin ci sarà al momento giusto”. Un incontro a tre fra Volodymyr Zelensky, Vladimir Putin e Donald Trump ci sarà al momento giusto. Lo ha detto lo stesso presidente americano al termine dell’incontro con il leader ucraino a Mar-a-Lago",
+      "Trump: “Prossimo incontro sarà con Zelensky o con Putin e Zelensky”. Dopo il vertice tra Donald Trump e Vladimir Putin venerdì in Alaska, \"il prossimo incontro sarà tra il presidente russo e Volodymyr Zelensky o con Putin, Zelensky e me\". Lo ha detto Trump rispondendo ai giornalisti oggi alla Casa Bianca sottolineando che \"sarò lì se avranno bisogno ma io voglio organizzare un incontro tra i due leader\".",
+      "Zelensky: “Trump è dalla nostra parte”. Volodymyr Zelensky ha detto di essere convinto che Donald Trump \"sia dalla parte dell’Ucraina\""
+    ]
+  },
+  {
+    "topic": 10,
+    "top_words": [
+      {
+        "word": "attacco",
+        "weight": 0.025740690444318932
+      },
+      {
+        "word": "kiev",
+        "weight": 0.023790709586918018
+      },
+      {
+        "word": "forze",
+        "weight": 0.019814388653515685
+      },
+      {
+        "word": "regione",
+        "weight": 0.019313985142547393
+      },
+      {
+        "word": "infrastrutture",
+        "weight": 0.01926570475498458
+      },
+      {
+        "word": "ucraine",
+        "weight": 0.017895052114771343
+      },
+      {
+        "word": "attacchi",
+        "weight": 0.0169742903817697
+      },
+      {
+        "word": "elettricità",
+        "weight": 0.01593577786909075
+      },
+      {
+        "word": "russo",
+        "weight": 0.01589031490933439
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.01572087465855564
+      }
+    ],
+    "representative_docs": [
+      "Mosca, massiccio attacco a infrastrutture energetiche Kiev. La Russia ha lanciato \"un massiccio attacco contro le infrastrutture del complesso militare-industriale ucraino, gli impianti energetici utilizzati dalle forze armate ucraine e gli aeroporti militari\". Lo ha riferito il ministero della Difesa di Mosca. Un’azione - viene spiegato - effettuata \"in risposta agli attacchi terroristici dell’Ucraina contro obiettivi civili in Russia\". Secondo Mosca gli obiettivi del raid \"sono stati tutti raggiunti\". |",
+      "Mosca: massiccio attacco contro gli impianti energetici di Kiev. La Russia ha lanciato un massiccio attacco durante la notte contro le imprese dell’industria della difesa e gli impianti energetici utilizzati dalle forze armate ucraine. Lo ha riferito il ministero della Difesa russo. \"Stasera, in risposta agli attacchi terroristici dell’Ucraina contro obiettivi civili in Russia, le Forze Armate russe hanno lanciato un massiccio attacco con armi di precisione a lungo raggio da terra, aria e mare, nonché con droni d’attacco, contro le strutture del complesso militare-industriale ucraino, le infrastrutture energetiche utilizzate dalle Forze Armate ucraine e gli aeroporti militari. Gli obiettivi dell’attacco sono stati raggiunti. Tutti gli obiettivi designati sono stati colpiti\", ha dichiarato il ministero della Difesa.",
+      "La Russia conferma il massiccio attacco alle infrastrutture energetiche dell’Ucraina. La Russia ha confermato di avere compiuto la scorsa notte \"un attacco massiccio\" sull’Ucraina, prendendo di mira in particolare infrastrutture energetiche che, secondo Mosca, sono impiegate per sostenere le forze amrate e l’apparato militare-industriale del Paese. \"In risposta agli attacchi terroristici dell’Ucraina contro obiettivi civili nel territorio della Russia - afferma in una nota il ministero della Difesa - questa notte le Forze Armate della Federazione Russa hanno sferrato un attacco massiccio con armi ad alta precisione di base terrestre, nonché con droni, contro obiettivi dell’infrastruttura energetica utilizzati nell’interesse delle forze armate ucraine e delle imprese del complesso militare-industriale dell’Ucraina\". In precedenza il presidente ucrainoVolodymyr Zelenskyaveva detto che le forze russe avevano lanciato 300 droni, 18 missili balistici e 7 missili da crociera, in particolare contro \"impianti di produzione energetica e le sottostazioni\". Secondo Zelensky, centinaia di migliaia di cittadino sono rimasti senza elettricità."
+    ]
+  },
+  {
+    "topic": 11,
+    "top_words": [
+      {
+        "word": "forze",
+        "weight": 0.03708575735550935
+      },
+      {
+        "word": "kursk",
+        "weight": 0.03194703606451726
+      },
+      {
+        "word": "ucraine",
+        "weight": 0.026058605581422204
+      },
+      {
+        "word": "regione",
+        "weight": 0.02600254688469159
+      },
+      {
+        "word": "pokrovsk",
+        "weight": 0.023251368551391736
+      },
+      {
+        "word": "truppe",
+        "weight": 0.02216486335248009
+      },
+      {
+        "word": "russe",
+        "weight": 0.02176145067738046
+      },
+      {
+        "word": "esercito",
+        "weight": 0.01589245811148167
+      },
+      {
+        "word": "offensiva",
+        "weight": 0.015419682343754572
+      },
+      {
+        "word": "armate",
+        "weight": 0.014975482426645223
+      }
+    ],
+    "representative_docs": [
+      "Mosca: l’esercito russo avanza sulla linea del fronte del Dontesk. Le forze armate russe stanno avanzando lungo tutta la linea del fronte nel Donetsk. Lo dice il capo della autoproclamata repubblica,Denis Pushilin, sul canale televisivoRussia 24secondo quanto riporta Ria Novosti. \"Assistiamo a un’avanzata sistematica delle Forze armate russe lungo quasi tutta la linea del fronte\", ha affermato Pushilin, secondo cui l’esercito russo sta espandendo la propria zona di controllo e distruggendo le aree fortificate delle forze Armate ucraine nella direzione Kurakhovsky e nell’area di Velyka Novosyolka. Secondo Mosca le forze ucraine hanno tentato ’senza successo’ di contrattaccare nei pressi di Krasnoarmeysk, il più importante snodo dei trasporti delle forze armate ucraine nel Donbass, 66 chilometri a nord-ovest di Donetsk. Pushilin ha aggiunto le forze di Mosca stanno avanzando anche a Chasov Yar, una delle principali linee di difesa dell’esercito ucraino nella parte settentrionale del Donetsk. Domenica, sempre secondo Ria Novosti, Pushilin aveva detto che le forze armate russe stanno gradualmente tagliando fuori tutta la logistica nemica lungo l’autostrada che collega Dimitrov, Konstantinovka e Chasov Yar. | |",
+      "Kiev: “Stiamo allontanando l’esercito russo da Povrosk”. “Le forze di ucraine difesa stanno allontanando le forze russe da Pokrovsk”. Lo riporta Rbc-Ucraina citando la pagina Facebook del Gruppo di forze \"Est\". \"APokrovsk sono in corso operazioni di ricerca e assalto e l’eliminazione del nemico negli edifici cittadini. A Myrnograd, le unità ucraine stanno mantenendo le linee difensive ed eliminando il nemico nelle vicinanze della citta’\", aggiunge l’esercito di Kiev. Myrnorad è la città che protegge il lato nord della sacca di Pokrovsk. L’epicentro dei combattimenti nella regione di Donetsk è da tempo la direzione di Pokrovsk. \"Le truppe russe stanno cercando di circondare Pokrovsk da diverse direzioni e vi stanno inviando forze aggiuntive\", dice l’esercito ucraino. I soldati russi sono concentrati principalmente nel sud di Pokrovsk e piccoli gruppi sono presenti in tutto l’agglomerato. Secondo il colonnello delle forze armate ucraine Vladislav Seleznyov, citato da Rbc-Ucraina, la Russia ha concentrato più di 140 mila truppe nella direzione di Pokrovsk. Alcuni giorni faVladimir Putinaveva proclama la conquista di Pokrovsk, la città di circa 60mila abitanti, la gran parte dei quali sfollati a causa della guerra, e snodo strategico chiave della regione del Donetsk. Da molte settimane infuriano feroci battaglie per la conquista della città, con le forze russe che di conquistarla e gli ucraini di difenderla.",
+      "Mosca: “Preso il controllo di altri villaggi nel Kursk”. Mosca rivendica di aver ripreso il controllo di diversi altri villaggi nella regione russa delKurske sostiene di avere quasi circondato i soldati ucraini asserragliati nella difesa delle loro posizioni. In una nota, il ministero della Difesa russo ha parlato di \"progressi\" nelle operazioni \"per respingere i tentativi di invasione delle Forze armate ucraine nella regione di Kursk\". E ha rivendicato che \"unità del gruppo militare Nord hanno liberato le località di Staraya, Novaya Sorochina e Malaya Loknya\".\"Le forze armate russe continuano a sconfiggere le forze armate ucraine nella regione di Kursk\", dice il ministero della Difesa, secondo cui i soldati di Kiev avrebbero perso 340 militari, tra morti e feriti, nei combattimenti registrati nelle ultime 24 ore. |"
+    ]
+  },
+  {
+    "topic": 12,
+    "top_words": [
+      {
+        "word": "russia",
+        "weight": 0.028795421384569187
+      },
+      {
+        "word": "nato",
+        "weight": 0.024098670661567442
+      },
+      {
+        "word": "guerra",
+        "weight": 0.01678303304843019
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.014878085373747772
+      },
+      {
+        "word": "minaccia",
+        "weight": 0.013580981310726969
+      },
+      {
+        "word": "europa",
+        "weight": 0.01243610276383732
+      },
+      {
+        "word": "kallas",
+        "weight": 0.01055894102532051
+      },
+      {
+        "word": "mosca",
+        "weight": 0.010435159250212081
+      },
+      {
+        "word": "paesi",
+        "weight": 0.010149015624111376
+      },
+      {
+        "word": "ue",
+        "weight": 0.009652547045012142
+      }
+    ],
+    "representative_docs": [
+      "Rutte: “La principale minaccia a lungo termine per la Nato è la Russia”. La principale minaccia a lungo termine per la Nato è la Russia. Non c’è dubbio\". Lo ha dichiarato il segretario generale della Nato, Mark Rutte, nel suo discorso alla Chatham House a Londra. \"Ma non c’è solo la Russia, e la Nato non è mai stata istituita per combattere solo l’Unione sovietica. Il suo scopo era proteggere il territorio Nato da chiunque cercasse di attaccarci. E quello che vediamo al momento è un enorme accumulo di capacità militari da parte della Cina\", ha spiegato. \"Dal punto di vista navale, nel 2030 avranno 100 navi in più rispetto alle attuali navi degli Stati Uniti. E hanno una base industriale di difesa in Cina per costruire ancora più navi, con cui gli americani, al momento, non possono assolutamente competere. Questo è uno dei grandi problemi che abbiamo: per quel che riguarda la spesa per la difesa, c’è un problema con Europa e Canada. Quando si tratta di produzione per la difesa, c’è un problema con Europa, Canada e Stati Uniti, perché in tutta l’Alleanza non produciamo abbastanza. E la Cina sta collaborando con la Corea del Nord e l’Iran. Stanno sostenendo, come tutti sappiamo, lo sforzo bellico della Russia contro l’Ucraina\", ha evidenziato.",
+      "Rutte: “La principale minaccia a lungo termine per la Nato è la Russia”. La principale minaccia a lungo termine per la Nato è la Russia. Non c’è dubbio\". Lo ha dichiarato il segretario generale della Nato, Mark Rutte, nel suo discorso alla Chatham House a Londra. \"Ma non c’è solo la Russia, e la Nato non è mai stata istituita per combattere solo l’Unione sovietica. Il suo scopo era proteggere il territorio Nato da chiunque cercasse di attaccarci. E quello che vediamo al momento è un enorme accumulo di capacità militari da parte della Cina\", ha spiegato. \"Dal punto di vista navale, nel 2030 avranno 100 navi in più rispetto alle attuali navi degli Stati Uniti. E hanno una base industriale di difesa in Cina per costruire ancora più navi, con cui gli americani, al momento, non possono assolutamente competere. Questo è uno dei grandi problemi che abbiamo: per quel che riguarda la spesa per la difesa, c’è un problema con Europa e Canada. Quando si tratta di produzione per la difesa, c’è un problema con Europa, Canada e Stati Uniti, perché in tutta l’Alleanza non produciamo abbastanza. E la Cina sta collaborando con la Corea del Nord e l’Iran. Stanno sostenendo, come tutti sappiamo, lo sforzo bellico della Russia contro l’Ucraina\", ha evidenziato.",
+      "Ue e Nato condannano gli attacchi ibridi della Russia. L’Unione europea e la Nato condannano i continui attacchi ibridi della Russia contro l’Ue e gli alleati dell’Alleanza atlantica. È quanto si legge in una dichiarazione dell’Alta rappresentante dell’Ue per la Politica estera,Kaja Kallas, e in una dichiarazione del Consiglio Nord Atlantico.\"La Russia ha condotto campagne ibride contro l’Ue e i suoi Stati membri per anni, con attività illecite in ulteriore escalation dall’inizio della guerra di aggressione contro l’Ucraina ed è altamente probabile che persistano nel prossimo futuro\", si legge nella dichiarazione di Kallas. \"Le campagne ibride destabilizzanti della Russia - continua l’Alta rappresentante dell’Ue - non si limitano tuttavia al dominio informatico, ma includono anche atti di sabotaggio, interruzione di infrastrutture critiche, attacchi fisici, manipolazione e interferenza di informazioni e altre azioni segrete o coercitive\".L’Ue, conclude Kallas, \"continuerà ad agire con determinazione attraverso un approccio strategico nei confronti delle minacce ibride della Russia\" e continuerà \"a rafforzare la propria resilienza, ad approfondire la cooperazione con i partner internazionali, in particolare con la Nato, nel pieno rispetto dei principi concordati, e a fare pieno uso di tutti i mezzi disponibili per prevenire, scoraggiare e rispondere efficacemente alle attività ibride della Russia\".\"Condanniamo fermamente le attività informatiche malevole della Russia, che costituiscono una minaccia per la sicurezza degli Alleati. Siamo solidali e riconosciamo che Estonia, Francia, Regno Unito e Stati Uniti hanno recentemente attribuito attività informatiche malevole ai servizi segreti militari russi (Gru) contro diversi alleati della Nato e l’Ucraina\", si legge invece nel comunicato della Nato. \"Invitiamo la Russia a porre fine alle sue attività informatiche e ibride destabilizzanti. Risponderemo a queste minacce nel momento e nei modi che riterremo opportuni, in conformità con il diritto internazionale e in coordinamento con i nostri partner internazionali, inclusa l’Ue\", conclude il Consiglio Nord Atlantico."
+    ]
+  },
+  {
+    "topic": 13,
+    "top_words": [
+      {
+        "word": "macron",
+        "weight": 0.05746315689729873
+      },
+      {
+        "word": "francese",
+        "weight": 0.027013905278233122
+      },
+      {
+        "word": "emmanuel",
+        "weight": 0.026348459308512682
+      },
+      {
+        "word": "presidente",
+        "weight": 0.02588168388334586
+      },
+      {
+        "word": "emmanuel macron",
+        "weight": 0.024919137551348138
+      },
+      {
+        "word": "presidente francese",
+        "weight": 0.023784792010924025
+      },
+      {
+        "word": "starmer",
+        "weight": 0.023626260164602585
+      },
+      {
+        "word": "francese emmanuel",
+        "weight": 0.020340079273952056
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.02026985872441942
+      },
+      {
+        "word": "riunione",
+        "weight": 0.01872108817360855
+      }
+    ],
+    "representative_docs": [
+      "Macron ha telefonato a Trump prima del vertice all'Eliseo. Il presidente francese, Emmanuel Macron, ha telefonato a Donald Trump, immediatamente prima dell’inizio del vertice sulla pace e la sicurezza in Ucraina, secondo quanto si apprende da fonti dell’Eliseo. Stando alle stesse fonti, il presidente francese si è trattenuto brevemente - prima dell’inizio dei lavori - con alcuni dei partecipanti: il presidente ucraino, Volodymyr Zelensky, il primo ministro britannico, Keir Starmer, e il segretario generale della Nato, Mark Rutte.",
+      "Domani Rutte a Londra per la coalizione dei volenterosi. Il segretario generale della Nato, Mark Rutte, si recherà domani a Londra per partecipare alla riunione della coalizione dei volenterosi ospitata dal premier britannico, Keir Starmer, e dal presidente francese, Emmanuel Macron. Alle 18.05 è in programma una sua conferenza stampa con Starmer e il presidente ucraino, Volodymyr Zelensky.",
+      "Starmer-Macron, pronti piani forza peacekeeping. I piani europei per una forza di peacekeeping da schierare in Ucraina nell’ambito di un cessate il fuoco nella guerra con la Russia sono pronti. Lo hanno affermato il presidente francese, Emmanuel Macron, e il premier britannico Keir Starmer, intervenuti alla riunione dei volenterosi in videocollegamento con la Conferenza di Roma. \"Abbiamo un piano pronto per essere avviato nelle ore successive al cessate il fuoco\", ha dichiarato il presidente francese Emmanuel Macron durante una visita nel Regno Unito. Il primo ministro britannico ha aggiunto che le proposte sono \"mature e le stiamo elaborando su una base a lungo termine\"."
+    ]
+  },
+  {
+    "topic": 14,
+    "top_words": [
+      {
+        "word": "zelensky",
+        "weight": 0.054014026336190575
+      },
+      {
+        "word": "presidente",
+        "weight": 0.026339145241661758
+      },
+      {
+        "word": "putin",
+        "weight": 0.023618477397056335
+      },
+      {
+        "word": "presidente ucraino",
+        "weight": 0.022934321083377788
+      },
+      {
+        "word": "ucraino",
+        "weight": 0.02261441731865009
+      },
+      {
+        "word": "russia",
+        "weight": 0.022582807499808167
+      },
+      {
+        "word": "volodymyr",
+        "weight": 0.021673682604503836
+      },
+      {
+        "word": "volodymyr zelensky",
+        "weight": 0.02097411022988691
+      },
+      {
+        "word": "ucraino volodymyr",
+        "weight": 0.019400821970743585
+      },
+      {
+        "word": "guerra",
+        "weight": 0.018604921256848195
+      }
+    ],
+    "representative_docs": [
+      "Zelensky: “Pronti al cessate il fuoco per Pasqua”. L’Ucraina è disposta ad accettare un cessate il fuoco con la Russia per Pasqua. Lo ha dichiarato il presidente ucraino Volodymyr Zelensky parlando con i giornalisti. Lo riportaSky News. \"L’Ucraina è pronta per un cessate il fuoco per le festività pasquali\", ha spiegato Zelensky. \"Siamo pronti a qualsiasi compromesso, tranne che a compromessi sulla nostra dignità e sovranità. Loro (i russi) non saranno in grado di rafforzare nulla in due o tre giorni\", ha aggiunto il leader ucraino.",
+      "Merz, ovvio che non ci sarà incontro Zelensky-Putin. Il cancelliere tedesco, Friedrich Merz, ritiene \"ovvio che non ci sarà alcun incontro\" nell’immediato futuro tra il presidente ucraino, Volodymyr Zelensky, e il presidente russo, Vladimir Putin.\"E’ ovvio che non ci sarà alcun incontro tra il presidente Zelensky e il presidente Putin, contrariamente a quanto concordato tra il presidente Trump e il presidente Putin\", ha dichiarato Merz prima di un vertice con il presidente francese, Emmanuel Macron.",
+      "Zelensky: “Mosca sembra più incline alla tregua”. Il presidente ucraino Volodymyr Zelensky ha espresso un cauto ottimismo sui progressi nei negoziati di pace, citando i segnali di un potenziale cambiamento nella posizione della Russia sulla guerra in Ucraina dopo i colloqui tra il presidente russo Vladimir Putin e l’inviato degli Stati Uniti Steve Witkoff. Lo riporta \"Kkyiv independent\". \"La Russia ora sembra essere più incline a un cessate il fuoco: la pressione sta funzionando\", ha detto Zelensky nel suo discorso serale, poche ore dopo essere stato informato dal presidente degli Stati Uniti Donald Trump durante il viaggio a Mosca tra Witkoff e Putin. \"La chiave è assicurarsi che non ingannino nessuno nei dettagli, né noi, né gli Stati Uniti\", ha aggiunto Zelensky, parlando dei russi. Trump e Zelensky hanno avuto una telefonata insieme ai leader europei per condividere i progressi nei colloqui."
+    ]
+  },
+  {
+    "topic": 15,
+    "top_words": [
+      {
+        "word": "zelensky",
+        "weight": 0.046994961701384716
+      },
+      {
+        "word": "presidente",
+        "weight": 0.032337412466009165
+      },
+      {
+        "word": "ucraino",
+        "weight": 0.021061584540462405
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.02024800291491085
+      },
+      {
+        "word": "presidente ucraino",
+        "weight": 0.019861412890776402
+      },
+      {
+        "word": "volodymyr",
+        "weight": 0.019148225314892613
+      },
+      {
+        "word": "volodymyr zelensky",
+        "weight": 0.018497333531473033
+      },
+      {
+        "word": "ucraino volodymyr",
+        "weight": 0.016445050313812663
+      },
+      {
+        "word": "leader",
+        "weight": 0.015166040521806303
+      },
+      {
+        "word": "sostegno",
+        "weight": 0.014819950471005292
+      }
+    ],
+    "representative_docs": [
+      "Zelensky arrivato da von der Leyen a Bruxelles. Il presidente ucraino Volodymyr Zelensky è arrivato nella sede della Commissione europea a Bruxelles per l’incontro con la presidente dell’esecutivo Ue Ursula von der Leyen, prima della riunione in videoconferenza con la coalizione dei Volenterosi e del viaggio a Washington per l’incontro domani con il presidente Usa Donald Trump.",
+      "Zelensky è arrivato al vertice Ue a Bruxelles. Il presidente ucraino,Volodymyr Zelensky,è arrivato all’Europa Building a Bruxelles dove si tiene il vertice straordinario dell’Ue sull’Ucraina e sulla difesa. È stato ricevuto dal presidente del Consiglio europeo,Antonio Costa, e dalla presidente della Commissione, Ursula von der Leyen.",
+      "Concluso incontro a quattro a Londra, ora bilaterale Zelensky-Starmer. Si è concluso l’incontro a Londra tra il presidente ucraino Volodymyr Zelensky, il primo ministro britannico, Keir Starmer, il cancelliere tedesco Friedrich Merz e il presidente francese Emmanuel Macron. I leader sono usciti insieme dalla residenza del premier. Macron e Merz hanno lasciato la sede del primo ministro britannico, mentre Zelensky è rientrato a Downing street per un colloquio bilaterale con Starmer. Zelensky è poi atteso a Bruxelles dove vedrà il segretario generale della Nato Mark Rutte, il presidente del Consiglio europeo Antonio Costa e la presidente della Commissione europea Ursula von der Leyen"
+    ]
+  },
+  {
+    "topic": 16,
+    "top_words": [
+      {
+        "word": "witkoff",
+        "weight": 0.03988273755192679
+      },
+      {
+        "word": "usa",
+        "weight": 0.030619069206081057
+      },
+      {
+        "word": "cremlino",
+        "weight": 0.025961745476001937
+      },
+      {
+        "word": "uniti",
+        "weight": 0.024113071495628056
+      },
+      {
+        "word": "inviato",
+        "weight": 0.02406263794157444
+      },
+      {
+        "word": "dmitriev",
+        "weight": 0.021525934307245025
+      },
+      {
+        "word": "putin",
+        "weight": 0.021507514197265862
+      },
+      {
+        "word": "russia",
+        "weight": 0.020149420006401346
+      },
+      {
+        "word": "colloqui",
+        "weight": 0.019798317979585204
+      },
+      {
+        "word": "mosca",
+        "weight": 0.01909663930907382
+      }
+    ],
+    "representative_docs": [
+      "Il Cremlino: “In corso preparativi per colloqui con gli Usa”. \"Stiamo effettivamente preparando alcuni contatti con le nostre controparti americane per ottenere informazioni sui risultati del lavoro svolto dagli Stati Uniti con europei e ucraini\". Lo ha dichiarato il portavoce del Cremlino, Dmitri Peskov, citato dall’agenzia Tass, rispondendo alle domande dei giornalisti sulle indiscrezioni secondo cui nel fine settimana potrebbero tenersi nuovi colloqui tra Russia e Stati Uniti a Miami. In precedenza, Axios e Politico avevano riferito di un possibile viaggio a Miami del rappresentante speciale del presidente russo Vladimir Putin, Kirill Dmitriev, per un nuovo round di colloqui sulle ultime modifiche al piano di pace americano con l’inviato speciale di Donald Trump, Steve Witkoff, e con il genero del presidente, Jared Kushner.",
+      "Cremlino, Putin e Witkoff potrebbero discutere vertice tra il presidente russo e il leader statunitense Trump. Il possibile incontro tra il presidente russo Vladimir Putin e il leader statunitense Donald Trump potrebbe essere discusso durante i colloqui previsti oggi tra Vladimir Putin e l’inviato speciale Usa, Steve Witkoff, ha affermato il portavoce del Cremlino, Dmitri Peskov. Witkoff è arrivato in Russia questa mattina. \"Forse\", ha risposto Peskov ai giornalisti che gli chiedevano della possibilità che nei colloqui di oggi si discutesse anche di un vertice tra i leader di Usa e Russia. Lo riporta Ria Novosti.",
+      "Sabato a Miami incontro Russia-Usa, Dmitriev vede Witkoff e Kushner. Sabato si terrà a Miami un incontro Russia-Usa in cui Mosca sarà rappresentata dall’inviato del Cremlino Kirill Dmitriev, consigliere del presidente russo Vladimir Putin, e gli Usa da Steve Witkoff, inviato di Donald Trump, e Jared Kushner, genero del presidente Usa. Lo riferisce un funzionario Usa. L’incontro giungerà dopo gli incontri avuti lunedì da Witkoff e Kushner a Berlino con funzionari ucraini ed europei, durante i quali hanno discusso delle garanzie di sicurezza degli Stati Uniti per Kiev, di eventuali concessioni territoriali e di altri aspetti del piano Usa per porre fine alla guerra in Ucraina"
+    ]
+  },
+  {
+    "topic": 17,
+    "top_words": [
+      {
+        "word": "droni",
+        "weight": 0.04178252547057706
+      },
+      {
+        "word": "aereo",
+        "weight": 0.03428984673344687
+      },
+      {
+        "word": "spazio aereo",
+        "weight": 0.032661490216999496
+      },
+      {
+        "word": "spazio",
+        "weight": 0.031982850685435445
+      },
+      {
+        "word": "polonia",
+        "weight": 0.019194054912672814
+      },
+      {
+        "word": "difesa",
+        "weight": 0.017637660712751635
+      },
+      {
+        "word": "nato",
+        "weight": 0.01484065195721052
+      },
+      {
+        "word": "polacco",
+        "weight": 0.013071939992347292
+      },
+      {
+        "word": "russi",
+        "weight": 0.012538080628420187
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.01058739759131167
+      }
+    ],
+    "representative_docs": [
+      "La Polonia abbatte droni russi entrati nel suo spazio aereo. Chiuso l’aeroporto di Varsavia. I caccia della Polonia si sono levati in volo in risposta alle ripetute violazioni dello spazio aereo durante un massiccio attacco russo sull’Ucraina e hanno abbattuto alcuni droni. Lo ha riferito il premier polacco,Donald Tusk, su X, spiegando che sono in corso ricerche per localizzare i rottami dei velivoli. Il ministero della Difesa di Varsavia ha riferito che droni russi sono entrati nella notte nello spazio aereo della Polonia, minacciando la città di Zamosc e le province orientali di Masovia, Podlachia e Lublino e la popolazione è stata invitata \"a restare in casa\". \"Aerei polacchi e alleati operano nel nostro spazio aereo e i sistemi di difesa aerea e le postazioni radar sono al massimo livello d’allerta\", hanno fatto sapere i vertici militari polacchi. Il premierTuskha seguito di persona le operazione \"per rispondere alle molteplici violazioni dello spazio aereo polacco\", ha spiegato lui stesso su X. \"Siamo in costante contatto con il comando della Nato\", ha riferito il ministro della Difesa,Wladyslaw Kosiniak-Kamyszche sui social ha invitato la popolazione a \"mantenere la calma e ad attenersi agli annunci ufficiali dei servizi statali e militari\". Le autorità polacche hanno temporaneamente chiuso l’aeroporto Chopin di Varsavia.",
+      "Droni in Romania, si alzano in volo i caccia e gli Eurofighter. Due caccia F-16 dell’esercito romeno e due Eurofighter della polizia aerea tedesca si sono alzati in volo dopo che due droni hanno violato lo spazio aereo della Romania. Lo ha annunciato il ministero della Difesa di Bucarest spiegando che la violazione è stata rilevata vicino al confine tra la Romania e l’Ucraina. L’ultima volta che i caccia sono decollati in Romania è stato quando un drone è entrato nel suo spazio aereo il 13 settembre durante un attacco russo alle infrastrutture ucraine, ricorda Sky News. Belgio, Germania, Repubblica Ceca, Spagna, Norvegia e Danimarca hanno segnalato di recente incursioni o avvistamenti di droni. Solo nella notte del 9 settembre circa 20 droni russi sono entrati nello spazio aereo polacco. Il 19 settembre, tre jet militari russi hanno violato lo spazio aereo dell’Estonia per 12 minuti, prima che i caccia italiani li scortassero fuori. Il 23 ottobre la Lituania ha dichiarato che due jet russi erano entrati nel suo spazio aereo.",
+      "Tallinn: “Violazione senza precedenti dello spazio aereo da parte di 3 caccia russi”. Aerei militari russi hanno violato lo spazio aereo estone. Lo ha reso noto il governo di Tallinn, precisando che tre caccia MiG-31 hanno sorvolato il Golfo di Finlandia per un totale di 12 minuti senza autorizzazione. Il ministro degli EsteriMargus Tsahknaha affermato che la Russia ha già violato lo spazio aereo estone quattro volte quest’anno, \"il che è di per sé inaccettabile, ma la violazione di oggi, durante la quale tre aerei da combattimento sono entrati nel nostro spazio aereo, è di una sfacciataggine senza precedenti\". | \"È necessario rispondere ai crescenti controlli dei confini e all’aggressività della Russia rafforzando rapidamente la pressione politica ed economica\", ha aggiunto. L’Estonia è il terzo paese della Nato a segnalare un’incursione del suo spazio aereo da parte della Russia nelle ultime settimane: domenica, la Romania ha dichiarato che un drone ha violato il suo spazio aereo durante un attacco russo alla vicina Ucraina."
+    ]
+  },
+  {
+    "topic": 18,
+    "top_words": [
+      {
+        "word": "villaggio",
+        "weight": 0.09084527490103461
+      },
+      {
+        "word": "conquistato",
+        "weight": 0.06938008981700271
+      },
+      {
+        "word": "donetsk",
+        "weight": 0.0688194987710927
+      },
+      {
+        "word": "ministero difesa",
+        "weight": 0.05842546903224716
+      },
+      {
+        "word": "ministero",
+        "weight": 0.056773437047601134
+      },
+      {
+        "word": "regione",
+        "weight": 0.056271997920569965
+      },
+      {
+        "word": "conquistato villaggio",
+        "weight": 0.053935194825250755
+      },
+      {
+        "word": "mosca",
+        "weight": 0.04932570302528556
+      },
+      {
+        "word": "villaggi",
+        "weight": 0.042755632271461834
+      },
+      {
+        "word": "difesa",
+        "weight": 0.04160379951460073
+      }
+    ],
+    "representative_docs": [
+      "Mosca: “Conquistato un altro villaggio nel Donetsk”. Le forze russe hanno conquistato il villaggio di Paraskovievka nella regione ucraina di Donetsk. Lo rende noto il ministero della Difesa di Mosca.",
+      "Mosca: conquistato un altro villaggio nella regione di Donetsk. Le forze russe hanno conquistato un altro villaggio nell’est dell’Ucraina, quello diNovovasilyevka, nella regione di Donetsk. Lo annuncia il ministero della Difesa di Mosca, citato dalle agenzie russe.",
+      "Mosca: “Conquistato un altro villaggio in Donetsk”. l ministero della Difesa di Mosca ha detto che le truppe russe hanno conquistato un altro villaggio, quello di Staromayorskoye, nella regione ucraina di Donetsk."
+    ]
+  },
+  {
+    "topic": 19,
+    "top_words": [
+      {
+        "word": "istanbul",
+        "weight": 0.05170576767398712
+      },
+      {
+        "word": "erdogan",
+        "weight": 0.04461698348956226
+      },
+      {
+        "word": "turchia",
+        "weight": 0.03923533005333416
+      },
+      {
+        "word": "colloqui",
+        "weight": 0.030212522452909014
+      },
+      {
+        "word": "turco",
+        "weight": 0.02800165929926648
+      },
+      {
+        "word": "negoziati",
+        "weight": 0.023570346453617826
+      },
+      {
+        "word": "esteri",
+        "weight": 0.020925097638995978
+      },
+      {
+        "word": "delegazione",
+        "weight": 0.01997400409377454
+      },
+      {
+        "word": "tayyip",
+        "weight": 0.019146905100298095
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.019019934930640456
+      }
+    ],
+    "representative_docs": [
+      "Erdogan a Macron: “La Turchia è pronta ad ospitare i negoziati tra Russia e Ucraina”. Il presidente turco,Recep Tayyip Erdogan, ha parlato di \"svolta storica\" negli sforzi per mettere fine alla guerra in Ucraina durante un colloquio telefonico con il presidente francese,Emmanuel Macron. Durante la telefonata, riferendosi alla proposta diVladimir Putindi tenere colloqui diretti con Kiev in Turchia dal 15 maggio, Erdogan - secondo quanto riferito dalla presidenza turca - ha sottolineato che \"questa opportunità deve essere colta e che la Turchia è pronta a fornire tutto il sostegno possibile, anche ospitando i negoziati, al fine di raggiungere un cessate il fuoco e una pace duratura\". | |",
+      "Erdogan: “Possibile incontro con Putin e Trump”. Il leader turco Recep Tayyip Erdogan afferma che potrebbe avere in questi giorni colloqui con il leader russo Vladimir Putin e il presidente americano Donald Trump per valutare la possibilità di un incontro tra leader a Istanbul, in Turchia, dedicato al conflitto che prosegue in Ucraina dall’avvio, il 24 febbraio 2022, dell’invasione russa su vasta scala. \"Potrei parlare con Vladimir Putin e Donald Trump in settimana per vedere se riusciamo a organizzare a Istanbul un incontro tra leader sulla guerra\", ha detto Erdogan in dichiarazioni riportate dal giornale turco Sabah, passati due giorni dal terzo round di colloqui a Istanbul tra delegazioni di Russia e Ucraina.",
+      "Ucraina: Zelensky a Istanbul per incontrare Erdogan. Il presidente ucraino Volodymyr Zelensky è arrivato a Istanbul per colloqui con il suo omologo turco Recep Tayyip Erdogan. Lo ha annunciato la presidenza ucraina. Un alto funzionario ucraino ha riferito che i colloqui si concentreranno sulla cooperazione in materia di sicurezza."
+    ]
+  },
+  {
+    "topic": 20,
+    "top_words": [
+      {
+        "word": "nucleari",
+        "weight": 0.04420959102382991
+      },
+      {
+        "word": "nucleare",
+        "weight": 0.0325332206658368
+      },
+      {
+        "word": "armi",
+        "weight": 0.03151541394861393
+      },
+      {
+        "word": "armi nucleari",
+        "weight": 0.027073156724061097
+      },
+      {
+        "word": "russia",
+        "weight": 0.023262665653959687
+      },
+      {
+        "word": "missili",
+        "weight": 0.020183100607238443
+      },
+      {
+        "word": "test",
+        "weight": 0.01896210548411549
+      },
+      {
+        "word": "missile",
+        "weight": 0.016146004176832218
+      },
+      {
+        "word": "putin",
+        "weight": 0.014533050980916585
+      },
+      {
+        "word": "usa",
+        "weight": 0.014252003414059907
+      }
+    ],
+    "representative_docs": [
+      "Lavrov: “Usa non hanno chiarito parole Trump su ripresa test nucleari”. Mosca non ha ancora ricevuto chiarimenti da Washington attraverso i canali diplomatici in merito alle dichiarazioni del presidente degli Stati Uniti Donald Trump sulla ripresa dei test nucleari. È quanto ha detto il ministro degli Esteri russo, Sergey Lavrov, secondo quanto riporta l’agenzia di stampa russa Tass. \"No, non abbiamo ancora ricevuto alcuna spiegazione attraverso i canali diplomatici su cosa intendesse il presidente Donald Trump quando ha annunciato la ripresa dei test nucleari\", ha osservato Lavrov in risposta a una domanda in merito. \"Non è chiaro se la discussione riguardasse i test sui vettori di armi nucleari, la conduzione dei cosiddetti test subcritici (cioè test che non producono una reazione nucleare, questi sono effettuati da tutti gli Stati nucleari per mantenere la sicurezza e la prontezza operativa dei loro arsenali nucleari, non contraddicono gli impegni volontari di tali Stati e non violano il Trattato sulla messa al bando totale dei test nucleari, che non è ancora entrato in vigore). O se Donald Trump stesse effettivamente parlando dell’intenzione di Washington di riprendere i test nucleari su larga scala\", ha detto ancora Lavrov, secondo quanto riporta Tass.",
+      "Russia all’Ue: “Basta minacce nucleari”. L’Ue \"esorta la Russia a rinunciare alle minacce nucleari e tutti gli attori a evitare qualsiasi azione che possa innescare una nuova corsa agli armamenti, poiché questo comportamento mina la stabilità globale e i progressi faticosamente ottenuti nella riduzione delle armi nucleari dalla fine della Guerra Fredda\". Lo dice il portavoce dell’Ue per gli Affari Esteri Anouar el Anouni, durante il briefing con la stampa a Bruxelles. L’annuncio fatto dal presidente russo Vladimir Putin sul test condotto con successo per il missile a propulsione nucleare Burevestnik, continua el Anouni, \"è un passo nella direzione sbagliata. Se il missile fosse effettivamente a propulsione nucleare, potrebbe rilasciare materiale radioattivo durante i test o durante l’uso. Oltre a questo specifico annuncio, e più in generale, la Russia deve astenersi da qualsiasi azione che possa influire negativamente sulla soglia per l’uso delle armi nucleari\". La Russia, aggiunge, \"deve rispettare i propri obblighi e impegni internazionali, incluso il Trattato di non proliferazione delle armi nucleari, proprio come gli altri leader dei cinque Stati dotati di armi nucleari. La Russia è firmataria di questo trattato e ha ribadito il suo impegno a rispettare il principio secondo cui una guerra nucleare non può essere vinta e non deve mai essere combattuta\", conclude.",
+      "Usa: \"Armi nucleari russe in Bielorussia? Non ci risulta\". Agli Stati Uniti non risulta alcun spostamento di armi nucleari russe. Lo ha detto il portavoce del Consiglio di Sicurezza nazionale della Casa Bianca,John Kirby, dopo che Mosca ha annunciato ildispiegamento di armi nucleari tattiche in Bielorussia. \"Non abbiamo ricevuto alcuna indicazione che (il presidente russo Vladimir Putin) abbia mantenuto questo impegno o spostato armi nucleari\", ha detto Kirby allaCbs."
+    ]
+  },
+  {
+    "topic": 21,
+    "top_words": [
+      {
+        "word": "zelensky",
+        "weight": 0.052552723802734486
+      },
+      {
+        "word": "presidente",
+        "weight": 0.026282758966180538
+      },
+      {
+        "word": "ucraino",
+        "weight": 0.023180462141980204
+      },
+      {
+        "word": "presidente ucraino",
+        "weight": 0.02292113742988292
+      },
+      {
+        "word": "guerra",
+        "weight": 0.02259726744432236
+      },
+      {
+        "word": "ucraina",
+        "weight": 0.021865407654770297
+      },
+      {
+        "word": "volodymyr",
+        "weight": 0.021461529882399008
+      },
+      {
+        "word": "pace",
+        "weight": 0.020831542564677195
+      },
+      {
+        "word": "volodymyr zelensky",
+        "weight": 0.02050611108545919
+      },
+      {
+        "word": "uniti",
+        "weight": 0.017633207956459583
+      }
+    ],
+    "representative_docs": [
+      "Zelensky: “Pronti ad andare avanti con il piano di pace”. Il presidente ucraino Volodymyr Zelensky ha dichiarato che Kiev è pronta ad andare avanti con l’accordo di pace sostenuto dagli Stati Uniti e che è pronto a discuterne i punti delicati con il presidente degli Stati Uniti Donald Trump, in colloqui che, a suo dire, dovrebbero includere anche gli alleati europei. Lo riporta Reuters online, che ha preso visione di un discorso di Zelensky alla coalizione dei volenterosi. Nel messaggio, il presidente ucraino ha esortato i leader europei a elaborare un quadro per l’invio di una \"forza di rassicurazione\" in Ucraina e a continuare a sostenere Kiev finché Mosca non mostrerà la volontà di porre fine alla sua guerra.",
+      "Zelensky: “Pronti ad andare avanti con piano di pace Usa”. L’Ucraina è \"pronta ad andare avanti\" con l’accordo di pace sostenuto dagli Stati Uniti. Lo ha dichiarato il presidente ucraino Volodymyr Zelensky in un discorso alla \"coalizione dei volenterosi\" citato dai media britannici. Zelensky ha aggiunto di essere pronto a discutere \"i punti delicati\" dell’accordo con il presidente degli Stati Uniti Donald Trump in colloqui che, a suo dire, dovrebbero includere gli alleati europei.",
+      "Zelensky: “Incontrerò gli Usa per porre fine alla guerra”. Il presidente ucraino, Volodymyr Zelensky, ha annunciato che incontrerà a Berlino i rappresentanti del Presidente degli Stati Uniti, Donald Trump, per porre fine alla guerra. \"Ci stiamo preparando per gli incontri con la parte americana e i nostri amici europei nei prossimi giorni. A Berlino - afferma Zelensky - ci saranno molti eventi. Rustem Umerov e il nostro team negoziale riferiranno sui contatti già avvenuti. Il generale Hnatov e i rappresentanti del settore della difesa e della sicurezza ucraino lavoreranno sui dettagli delle garanzie di sicurezza per l’Ucraina e per gli ucraini. Allo stesso tempo, i funzionari del governo ucraino continuano a dialogare con l’America e l’Europa sulla reale restaurazione dell’Ucraina e sul reale sviluppo dell’Ucraina dopo la guerra. La cosa più importante è che avrò degli incontri con i rappresentanti del Presidente Trump e ci saranno anche degli incontri con i nostri partner europei, con molti leader, per discutere delle basi della pace: un accordo politico per porre fine alla guerra\". Zelensky ha osservato che \"ora le possibilità sono significative. Stiamo lavorando per garantire che la pace per l’Ucraina sia degna. Affinchè ci sia una garanzia che la Russia non tornerà in Ucraina con una terza invasione. Ringrazio tutti i partner che aiutano l’Ucraina, e in questi giorni a Berlino lavoreremo nel modo più attivo e costruttivo possibile con chiunque possa davvero far sì che l’accordo diventi normale\", ha affermato. I media avevano riferito che l’inviato speciale del Presidente degli Stati Uniti, Steve Witkoff, avrebbe incontrato i leader europei e il presidente ucraino Volodymyr Zelensky a Berlino, in Germania. All’inizio della prossima settimana a Berlino è previsto un incontro su un possibile cessate il fuoco in Ucraina. Il cancelliere tedesco Friedrich Merz ha invitato i rappresentanti degli Stati Uniti a partecipare all’incontro. Secondo quanto riportato dal quotidiano tedesco Bild, lunedì 15 dicembre il Presidente Volodymyr Zelensky arriverà in visita nella capitale tedesca."
+    ]
+  },
+  {
+    "topic": 22,
+    "top_words": [
+      {
+        "word": "droni",
+        "weight": 0.04638809510014114
+      },
+      {
+        "word": "attacco",
+        "weight": 0.0462962241595406
+      },
+      {
+        "word": "drone",
+        "weight": 0.041139187912165795
+      },
+      {
+        "word": "regione",
+        "weight": 0.033634846662768544
+      },
+      {
+        "word": "feriti",
+        "weight": 0.032165719349745416
+      },
+      {
+        "word": "attacco droni",
+        "weight": 0.02841152095274927
+      },
+      {
+        "word": "governatore",
+        "weight": 0.026702159386967385
+      },
+      {
+        "word": "ferite",
+        "weight": 0.023404082232820006
+      },
+      {
+        "word": "rimaste",
+        "weight": 0.02016769975514055
+      },
+      {
+        "word": "morto",
+        "weight": 0.019460606732956204
+      }
+    ],
+    "representative_docs": [
+      "Attacchi con droni in Russia, due morti. Due persone sono state uccise e diverse altre ferite in attacchi con droni ucraini sulla città russa di Rostov sul Don e sulla regione di Belgorod, al confine con l’Ucraina, hanno riferito le autorità locali. A Rostov sul Don, una grande città di oltre un milione di abitanti nella Russia meridionale, un attacco di droni ha causato un incendio in un edificio residenziale, danneggiando due appartamenti, ha scritto il governatore regionaleYuri Slyusarsu Telegram. Ha affermato che il corpo di un uomo ucciso nell’attacco è stato scoperto mentre rimuoveva i detriti da uno degli appartamenti colpiti. Altre quattro persone, tra cui un bambino di quattro anni, sono rimaste ferite in attacchi di droni contro la regione di Rostov durante la notte, dove diversi edifici in una zona industriale hanno preso fuoco, secondo la stessa fonte. Nella regione di Belgorod, una donna è stata uccisa e un uomo è rimasto ferito in un attacco di droni da parte delle \"forze armate ucraine\" su un’auto \"che è stata distrutta da un incendio\", ha riferito il governatore regionaleVyacheslav Gladkovsu Telegram.",
+      "Governatore, 4 feriti da droni ucraini nella regione russa di Belgorod. Il governatore della regione russa di Belgorod, Vyacheslav Gladkov, ha riferito che \"quattro civili sono rimasti feriti in attacchi di droni ucraini contro veicoli\". Lo ha scritto sul suo canale Telegram. Un uomo e una donna sono rimasti feriti a seguito dell’attacco di un drone contro un auto nel villaggio di Dobroe, distretto di Shebekinsky. Un uomo è stato ferito in un attaCco analogo nel villaggio di Pogromets, distretto di Volokonovsky. Una donna è stata ferita a Rakitnoye.",
+      "Tre morti in un attacco di droni nella regione di Kiev. Tre persone sono morte e altre sette sono rimaste ferite in seguito ad un attacco con droni lanciato la notte scorsa dalle forze russe nella regione di Kiev: lo ha reso noto su Telegram l’amministrazione militare regionale, come riportaUkrinform."
+    ]
+  }
+]
